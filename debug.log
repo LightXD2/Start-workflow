@@ -1,0 +1,5 @@
+[2024-12-24/ 00:01:02.288:WARNING:browser_app_win.cc(515)] Unable to read protocol whitelist from registry, status 2
+[2024-12-24/ 00:02:01.979:INFO:selfupdate_helper_win.cc(207)] Current user isNon-Admin
+[2024-12-24/ 00:02:01.998:INFO:selfupdate_helper_win.cc(350)] Self Update Task Started Event Handle= 00000000000003B4
+[2024-12-24/ 00:02:02.000:INFO:selfupdate_helper_win.cc(475)] Triggering Application Event hEventLog = 000002251A5CC3A0
+[2024-12-24/ 00:02:02.120:INFO:selfupdate_helper_win.cc(496)] RunSelfUpdateTask: foundTask = 1 succeded = 1

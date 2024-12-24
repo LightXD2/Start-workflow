@@ -1,0 +1,8 @@
+ttkbootstrap
+pillow
+keyboard
+windnd
+pywin32
+pystray
+appdirs
+pyinstaller

@@ -1,0 +1,27 @@
+{
+    "groups": {
+        "233": {
+            "name": "233",
+            "apps": [],
+            "websites": [],
+            "files": [],
+            "hotkey": "",
+            "dock_enabled": false,
+            "project1_enabled": false,
+            "project2_enabled": false,
+            "close_apps": []
+        },
+        "22": {
+            "name": "22",
+            "apps": [],
+            "websites": [],
+            "files": [],
+            "hotkey": "",
+            "dock_enabled": false,
+            "project1_enabled": false,
+            "project2_enabled": false,
+            "close_apps": []
+        }
+    },
+    "projects": {}
+}

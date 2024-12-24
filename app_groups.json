@@ -1,0 +1,21 @@
+{
+    "groups": {
+        "233": {
+            "name": "233",
+            "apps": [
+                "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\CEF\\NVIDIA app.exe"
+            ],
+            "websites": [
+                "https://www.bmhysw.com/article/50834.html"
+            ],
+            "files": [
+                "C:\\Users\\MINKEI\\Desktop\\KeyShot Studio Resources.lnk"
+            ],
+            "hotkey": "+",
+            "dock_enabled": false
+        }
+    },
+    "dock_settings": {
+        "dock_path": "D:\\RuanJian2\\steam2\\steamapps\\common\\MyDockFinder\\dock_64.exe"
+    }
+}
